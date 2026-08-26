@@ -1,2 +1,0 @@
-# No third-party dependencies. Uses only Python standard library and Windows APIs.
-
